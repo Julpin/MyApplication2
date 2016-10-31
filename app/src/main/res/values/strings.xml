@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="kanan_atas">Kanan Atas</string>
+    <string name="kanan_bawah">kanan bawah</string>
+    <string name="kiri_bawah">kiri bawah</string>
+    <string name="kiri_atas">kiri atas</string>
+</resources>
